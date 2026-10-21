@@ -8,6 +8,7 @@ A curated list of awesome CAE frameworks, libraries and software.
 * [cadmium](https://github.com/jay3sh/cadmium) - Cadmium is a python library for Solid Modelling.
 * [CadQuery](https://github.com/CadQuery/cadquery) - CadQuery is a Python CAD library that uses the OpenCASCADE CAD kernel
 * [oce](https://github.com/tpaviot/oce) - oce is a C++ 3D modeling library.
+* [CADProps](https://www.cadprops.com/tools/step-viewer/) - Browser-based STEP/STP viewer and inspection tool; visitors can view and measure without an account. Files are processed on CADProps servers, while conversion, account storage and share creation require signing in. Self-submitted project resource, not an independent review.
 
 
 ---------------
